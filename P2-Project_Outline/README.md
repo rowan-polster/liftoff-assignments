@@ -1,5 +1,7 @@
 Project Outline
+
 Overview
+
 This project will house a collection of essential oils and what ailments they treat. It will allow users to search for an essential oil so they can see what it treats, as well as searching for ailments to see what essential oil can help with that. In addition, a user will be able to create their own profile to keep track of their favorite oils.
 
 This project was motivated by the need for a user to know what certain essential oils can treat.
