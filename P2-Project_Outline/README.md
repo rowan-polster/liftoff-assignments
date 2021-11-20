@@ -1,18 +1,33 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+Project Outline
+Overview
+This project will house a collection of essential oils and what ailments they treat. It will allow users to search for an essential oil so they can see what it treats, as well as searching for ailments to see what essential oil can help with that. In addition, a user will be able to create their own profile to keep track of their favorite oils.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+This project was motivated by the need for a user to know what certain essential oils can treat.
 
-## Submission Instructions
+Features
+User Login: Users will be able to create accounts and log in to the application.
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+Search: Users will be able to search for essentials oils by treatment or name.
+
+Save Favorite Oils: Users can store their favorite oils on their profile page.
+
+View Saved Oils: Users can view their favorite oils that they've saved to their profile.
+
+Delete Saved Oils: Users can delete oils that they've saved to their profile.
+
+Technologies
+C# ASP.NET MVC
+
+MySQL
+
+Bootstrap
+
+
+What I'll Have to Learn
+Make passwords more secure in database. (maybe)
+
+
+Get more familiar with Bootstrap.
+
+Project Tracker
+https://trello.com/b/8sieFcI1/capstone-project
